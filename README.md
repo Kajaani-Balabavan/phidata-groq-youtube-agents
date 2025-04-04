@@ -1,6 +1,6 @@
 # 🤖 AI Multi-Agent Hands-on Project with PhiData + Groq + Tools  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kajaani-Balabavan/ai-multi-agent-hands-on/blob/main/agent_demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kajaani-Balabavan/phidata-groq-youtube-agents/blob/main/AI_Agent.ipynb)
 
 This project was built by following this awesome YouTube tutorial:  
 🎥 [Create Basic Multi AI Agents Using Phidata & Deep Seek](https://www.youtube.com/watch?v=mDOqyIk_lLk&t=684s)
