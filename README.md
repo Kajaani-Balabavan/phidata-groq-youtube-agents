@@ -3,7 +3,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kajaani-Balabavan/ai-multi-agent-hands-on/blob/main/agent_demo.ipynb)
 
 This project was built by following this awesome YouTube tutorial:  
-🎥 [Create an Agent App with Groq + Phi](https://www.youtube.com/watch?v=mDOqyIk_lLk&t=684s)
+🎥 [Create Basic Multi AI Agents Using Phidata & Deep Seek](https://www.youtube.com/watch?v=mDOqyIk_lLk&t=684s)
 
 ---
 
