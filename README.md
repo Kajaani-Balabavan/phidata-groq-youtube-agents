@@ -2,6 +2,9 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kajaani-Balabavan/phidata-groq-youtube-agents/blob/main/AI_Agent.ipynb)
 
+> 📌 **Note:** GitHub might not render this notebook correctly due to interactive elements and widget outputs.  
+> 👉 **To view and run the notebook properly, please click the Colab button above.**
+
 This project was built by following this awesome YouTube tutorial:  
 🎥 [Create Basic Multi AI Agents Using Phidata & Deep Seek](https://www.youtube.com/watch?v=mDOqyIk_lLk&t=684s)
 
